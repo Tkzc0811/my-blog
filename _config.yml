@@ -10,7 +10,7 @@ subtitle: 欢迎来到我的博客
 # 描述
 description: 这是一个用 Hexo 搭建的博客
 # 作者
-author: 你的名字
+author: twisted
 # 语言
 language: zh-CN
 # 时区
@@ -101,7 +101,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: reimu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
